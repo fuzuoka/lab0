@@ -17,25 +17,13 @@ body {
   position: relative;
 }
 
-.box-name>#block {
-  color: white;
-  background-color: black;
-  float: left;
-  width: 180px;
-  margin-right: 5%;
-  padding: 10px;
-  border: 1px solid white;
-  box-sizing: border-box;
-  text-align: center;
-}
-
 .box-name>#block:last-child {
   margin-right: 0;
 }
 
 #clock {
-  margin-top: 50%;
-  margin-left: 25px;
+  margin-top: 20%;
+  margin-left: 35%;
   padding-top: 10px;
   color: white;
   font-weight: bold;
